@@ -24,7 +24,7 @@ bro i just told you
 ### my badass, coolass, crazyass, amazingass logo that didn't take me a whole day to make:
 ![Logo_MAIN](https://user-images.githubusercontent.com/65370936/151694230-4fd61592-5dbd-44ad-a206-c04d1f5e05fd.jpg)
 
-### my dbot's badass, coolass, crazyass, amazingass logo that [this dude](https://clembs.xyz) helped me making:
+### my dbot's badass, coolass, crazyass, amazingass logo that [this dude](https://clembs.xyz) made for me:
 ![Vbot](https://user-images.githubusercontent.com/65370936/151694276-cd8c52c4-ce78-4bab-9e5e-bddc9648d956.jpg)
 
 ### These crazy good banners that i made (they are awesome):
