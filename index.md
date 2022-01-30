@@ -4,35 +4,32 @@ This is a very awesome website (i think) and uhhhhhhhh it's very cool because it
 
 cgeck out  [this crazy awesome source code](https://github.com/user5522/user5522.github.io) (it's so cool)
 
-### Brand
+## Brand
 
 I'm a [tunisia](https://www.google.com/search?q=tunisia)n 15 year old, that is very curious and wants to learn alot of stuff.
 What I have learned by now:
  - Making a discord bot that functions i think, [Vbot](https://discord.com/oauth2/authorize?client_id=771808147530711080&permissions=8&scope=bot+applications.commands)
-```markdown
-Syntax highlighted code block
+ - HTML & CSS, I'm pretty OK with them
+ - AOI.js, very cool and easy-to-use programming language used to make discord bots
+ - Uhhh whatever the heck this is
+ - Making lists :)
+ - Designing stuff in Adobe Illustrator (I like designing)
 
-# Header 1
-## Header 2
-### Header 3
+## Who am i
 
-- Bulleted
-- List
+bro i just told you
 
-1. Numbered
-2. List
+## Logos I made (I'm very proud of them)
 
-**Bold** and _Italic_ and `Code` text
+### my badass, coolass, crazyass, amazingass logo that didn't take me a whole day to make:
+![Logo_MAIN](https://user-images.githubusercontent.com/65370936/151694230-4fd61592-5dbd-44ad-a206-c04d1f5e05fd.jpg)
 
-[Link](url) and ![Image](src)
-```
+### my dbot's badass, coolass, crazyass, amazingass logo that [this dude](https://clembs.xyz) helped me making:
+![Vbot](https://user-images.githubusercontent.com/65370936/151694276-cd8c52c4-ce78-4bab-9e5e-bddc9648d956.jpg)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### These crazy good banners that i made (they are awesome):
+![Banner_MAIN](https://user-images.githubusercontent.com/65370936/151694347-81488d85-a2c9-44d8-8e17-610b20f88e83.png)
 
-### Jekyll Themes
+![Artboard 1](https://user-images.githubusercontent.com/65370936/151694355-d628e603-2c02-44a4-aefe-bf6b74416e09.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/user5522/user5522.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[place holder because i can't find the rest lol]
