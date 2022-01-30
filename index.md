@@ -1,13 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/user5522/user5522.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is a very awesome website (i think) and uhhhhhhhh it's very cool because it open source and yuh
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+cgeck out  [this crazy awesome source code](https://github.com/user5522/user5522.github.io) (it's so cool)
 
-### Markdown
+### Brand
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+I'm a [tunisia](https://www.google.com/search?q=tunisia)n 15 year old, that is very curious and wants to learn alot of stuff.
+What I have learned by now:
+ - Making a discord bot that functions i think, [Vbot](https://discord.com/oauth2/authorize?client_id=771808147530711080&permissions=8&scope=bot+applications.commands)
 ```markdown
 Syntax highlighted code block
 
