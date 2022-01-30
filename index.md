@@ -3,7 +3,7 @@
 Welcome to [my very epic website](https://user5522.github.io).
 here is why it's awesome and why you should be using it:
  - it's open source
- - it has an auto themer - which means if you have dark theme it will be on dark theme and the other way arround.
+ - it has dynamic theming - which means if you have dark theme it will be set to dark theme and the other way arround.
  - it is hosted by github (awesome)
  - it has a minimal theme (more awesome)
  - it's fast and responsive (i think)
