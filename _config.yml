@@ -1,3 +1,5 @@
 remote_theme: "godalming123/minimal"
 plugins:
 - jekyll-remote-theme 
+title: user5522.github.io
+description: A website, potentially
