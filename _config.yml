@@ -1,6 +1,7 @@
 remote_theme: "BDHU/minimalist"
 plugins:
 - jekyll-remote-theme 
+favicon: true
 title: User5522
 description: Is this a website???
 color-scheme: auto
