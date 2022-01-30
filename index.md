@@ -2,7 +2,7 @@
 
 This is a very awesome website (i think) and uhhhhhhhh it's very cool because it open source and yuh
 
-cgeck out  [this crazy awesome source code](https://github.com/user5522/user5522.github.io) (it's so cool)
+check out  [this crazy awesome source code](https://github.com/user5522/user5522.github.io) (it's so cool)
 
 ## Brand
 
