@@ -1,18 +1,24 @@
-## Welcome
+# Welcome
 
-This is a very awesome website (i think) and uhhhhhhhh it's very cool because it open source and yuh
+Welcome to [my very epic website](https://user5522.github.io).
+here is why it's awesome and why you should be using it:
+ - it's open source
+ - it has an auto themer - which means if you have dark theme it will be on dark theme and the other way arround.
+ - it is hosted by github (awesome)
+ - it has a minimal theme (more awesome)
+ - it's fast and responsive (i think)
+ - it's built by me!! :)
+if you are curious about how it's made check out  [this crazy awesome source code](https://github.com/user5522/user5522.github.io) (it's so cool)
 
-check out  [this crazy awesome source code](https://github.com/user5522/user5522.github.io) (it's so cool)
-
-## Brand
+## Brand & identity
 
 I'm a [tunisia](https://www.google.com/search?q=tunisia)n 15 year old, that is very curious and wants to learn alot of stuff.
 What I have learned by now:
  - Making a discord bot that functions i think, [Vbot](https://discord.com/oauth2/authorize?client_id=771808147530711080&permissions=8&scope=bot+applications.commands)
  - HTML & CSS, I'm pretty OK with them
  - AOI.js, very cool and easy-to-use programming language used to make discord bots
- - Uhhh whatever the heck this is
- - Making lists :)
+ - Uhh whatever the heck this is made of
+ - Making alot of lists :)
  - Designing stuff in Adobe Illustrator (I like designing)
 
 ## Who am i
@@ -32,4 +38,11 @@ bro i just told you
 
 ![Artboard 1](https://user-images.githubusercontent.com/65370936/151694355-d628e603-2c02-44a4-aefe-bf6b74416e09.png)
 
-[place holder because i can't find the rest lol]
+![Artboard 1](https://user-images.githubusercontent.com/65370936/151705364-58f1fc74-ae9f-4b44-8b20-81601e929d04.png)
+
+![Artboard 2](https://user-images.githubusercontent.com/65370936/151705403-59cfdbd5-9967-474a-8bfd-f43cbc738118.png)
+
+
+_More banners will be uploaded soon/whenever I make new ones._
+
+
