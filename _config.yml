@@ -1,4 +1,4 @@
-remote_theme: "godalming123/minimal"
+remote_theme: "BDHU/minimalist"
 plugins:
 - jekyll-remote-theme 
 title: user5522.github.io
