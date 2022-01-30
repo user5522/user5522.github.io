@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme 
 title: user5522.github.io
 description: A website, potentially
+color-scheme: auto
