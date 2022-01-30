@@ -16,6 +16,7 @@ sidebar:
     icon: fa-brands fa-github
     link: https://github.com/user5522
   - name: Vbot
+    icon: fa-brands fa-github
     link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
   - name: Twitter
     icon: fa-brands fa-twitter
