@@ -4,4 +4,18 @@ plugins:
 title: User5522
 description: Is this a website???
 color-scheme: auto
-logo: true
+logo: /assets/img/logo.png
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+sidebar:
+  - name: GitHub
+    icon: fa-brands fa-github
+    link: https://github.com/user5522
+  - name: Vbot
+    link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
+  - name: Twitter
+    icon: fa-brands fa-twitter
+    link: https://twitter.com/username_5522
