@@ -2,7 +2,7 @@
 
 Welcome to [my very epic website](https://user5522.github.io).
 here is why it's awesome and why you should be using it:
- - it's open source
+ - it's open source 
  - it has dynamic theming - which means if you have dark/light theme enabled the website will be in dark/light theme.
  - it has a minimal theme (awesome)
  - it's fast and responsive (i think)
