@@ -3,23 +3,22 @@
 Welcome to [my very epic website](https://user5522.github.io).
 here is why it's awesome and why you should be using it:
  - it's open source
- - it has dynamic theming - which means if you have dark theme it will be set to dark theme and the other way arround.
- - it is hosted by github (awesome)
- - it has a minimal theme (more awesome)
+ - it has dynamic theming - which means if you have dark/light theme enabled the website will be in dark/light theme.
+ - it has a minimal theme (awesome)
  - it's fast and responsive (i think)
- - it's built by me!! :)
-if you are curious about how it's made check out  [this crazy awesome source code](https://github.com/user5522/user5522.github.io) (it's so cool)
+ - it's by me :)
+if you are curious about how it's made check out  [this crazy awesome source code](https://github.com/user5522/user5522.github.io) (it's so epic)
 
-## Brand & identity
+## Identity
 
-I'm a [tunisia](https://www.google.com/search?q=tunisia)n 15 year old, that is very curious and wants to learn alot of stuff.
+I'm a [tunisia](https://www.google.com/search?q=tunisia)n 15 year old that wants to learn alot of stuff.
 What I have learned by now:
- - Making a discord bot that functions i think, [Vbot](https://discord.com/oauth2/authorize?client_id=771808147530711080&permissions=8&scope=bot+applications.commands)
- - HTML & CSS, I'm pretty OK with them
- - AOI.js, very cool and easy-to-use programming language used to make discord bots
- - Uhh whatever the heck this is made of
+ - Making a discord bot that functions (i think), [Vbot](https://discord.com/oauth2/authorize?client_id=771808147530711080&permissions=8&scope=bot+applications.commands)
+ - HTML & CSS
+ - AOI.js, a very cool and easy way to discord bots
+ - whatever the heck this is made of
  - Making alot of lists :)
- - Designing stuff in Adobe Illustrator (I like designing)
+ - Designing 2D stuff
 
 ## Who am i
 
@@ -27,10 +26,10 @@ bro i just told you
 
 ## Logos I made (I'm very proud of them)
 
-### my badass, coolass, crazyass, amazingass logo that didn't take me a whole day to make:
+### my badass, coolass, crazyass, amazingass logo that didn't take me a day to create:
 ![Logo_MAIN](https://user-images.githubusercontent.com/65370936/151694230-4fd61592-5dbd-44ad-a206-c04d1f5e05fd.jpg)
 
-### my dbot's badass, coolass, crazyass, amazingass logo that [this dude](https://clembs.xyz) made for me:
+### Vbot's badass, coolass, crazyass, amazingass logo that [this dude](https://clembs.xyz) made for me:
 ![Vbot](https://user-images.githubusercontent.com/65370936/151694276-cd8c52c4-ce78-4bab-9e5e-bddc9648d956.jpg)
 
 ### These crazy good banners that i made (they are awesome):
@@ -43,6 +42,6 @@ bro i just told you
 ![Artboard 2](https://user-images.githubusercontent.com/65370936/151705403-59cfdbd5-9967-474a-8bfd-f43cbc738118.png)
 
 
-_More banners will be uploaded soon/whenever I make new ones._
+_More banners will be uploaded soon or whenever I make new ones._
 
 
