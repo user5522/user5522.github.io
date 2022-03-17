@@ -44,4 +44,9 @@ bro i just told you
 
 _More banners will be uploaded soon or whenever I make new ones._
 
+## Contact
+
+Don't.
+
+_If you have any suggestion for me to do find a way to contact me xd._
 
