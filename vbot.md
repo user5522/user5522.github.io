@@ -1,6 +1,6 @@
 # Vbot - An easy-to-use discord bot.
 
-###Epic gamer note: _Vbot will be open-sourced soon_
+### Epic gamer note: _Vbot will be open-sourced soon_
 
 Vbot is a discord bot that is hosted on [Heroku](https://heroku.com) (because I'm broke)
 ## Pros of Vbot:
