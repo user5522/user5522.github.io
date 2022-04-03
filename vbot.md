@@ -2,7 +2,7 @@
 
 #### Epic gamer note: Vbot will be open-sourced _soon_
 
-Vbot is a discord bot that is hosted on [Heroku](https://heroku.com) (because I'm broke)
+Vbot is an epic discord bot that is supposed to be easy to use but i'm bad
 ## Pros of Vbot:
  - Currently has over 1 functionning command
  - It's Built using AOI.js, it's not really a pro but i like aoi.js
