@@ -11,4 +11,4 @@ Vbot is an epic discord bot that is supposed to be easy to use but i'm bad
  - it has 64gb of ram for some reason
  - it's on 14 discord servers (big number)
 
-##[Maybe try Vbot?](https://discord.com/oauth2/authorize?client_id=771808147530711080&permissions=8&scope=bot+applications.commands)
+## [Maybe try Vbot?](https://discord.com/oauth2/authorize?client_id=771808147530711080&permissions=8&scope=bot+applications.commands)
