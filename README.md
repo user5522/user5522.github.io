@@ -1,3 +1,2 @@
-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-
-it's a website probably
+A website, probably.
+(i also use it to host media shhh 🤫)
