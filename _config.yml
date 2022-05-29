@@ -1,6 +1,7 @@
 remote_theme: "BDHU/minimalist"
 plugins:
 - jekyll-remote-theme 
+- jekyll-seo-tag
 favicon: true
 title: User5522
 description: Yo does this work???
