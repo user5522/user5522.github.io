@@ -4,7 +4,7 @@ plugins:
 - jekyll-seo-tag
 favicon: true
 title: User5522
-description: Yo does this work???
+description: Yo, does this work?
 color-scheme: auto
 plugins:
   - jekyll-sitemap
