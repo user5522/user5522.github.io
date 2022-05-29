@@ -12,8 +12,9 @@ if you are curious about how it's made check out  [this crazy awesome source cod
 ## Links
 
 Links to navigate the website:
-[Vbot](https://www.user5522.io/vbot)
-[404](https://www.user5522.io/404)
+ - [Vbot](https://www.user5522.githubio/vbot)
+ - [404](https://www.user5522.github.io/404)
+ - [/media/media](https://www.user5522.github.io/media/media)
 #### more links will be added soon™
 
 ## Identity
