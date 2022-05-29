@@ -5,6 +5,7 @@
 - ../windmills.mp4
 - ../hand_of_god.mp4
 
+##### eg: https://user5522.github.io/media/fishe_friday.mp4
 more files will be added soon.
 # NOTICE
 hello bonjour, i don't own any media file in this folder.
