@@ -1,0 +1,10 @@
+remote_theme: "BDHU/minimalist"
+plugins:
+- jekyll-remote-theme 
+favicon: true
+title: /Media/
+description: all sorts of media files / mostly memes
+color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jemoji
