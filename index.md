@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to [my very epic website](https://user5522.github.io).
+to [my very epic website](https://user5522.github.io).
 here is why it's awesome and why you should be using it:
  - it's open source 
  - it has dynamic theming - which means if you have dark/light theme enabled the website will be in dark/light theme.
@@ -8,6 +8,13 @@ here is why it's awesome and why you should be using it:
  - it's fast and responsive (i think)
  - it's by me :)
 if you are curious about how it's made check out  [this crazy awesome source code](https://github.com/user5522/user5522.github.io) (it's so epic)
+
+## Links
+
+Links to navigate the website:
+[Vbot](https://www.user5522.io/vbot)
+[404](https://www.user5522.io/404)
+#### more links will be added soon™
 
 ## Identity
 
@@ -44,9 +51,5 @@ bro i just told you
 
 _More banners will be uploaded soon or whenever I make new ones._
 
-## Contact
-
-Don't.
-
-_If you have any suggestion for me to do find a way to contact me xd._
+_If you have any suggestion for me to do then find a way to contact me xd._
 
