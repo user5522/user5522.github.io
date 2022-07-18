@@ -19,14 +19,16 @@ Links to navigate the website:
 
 ## Identity
 
-I'm a [tunisia](https://www.google.com/search?q=tunisia)n 15 year old that wants to learn alot of stuff.
+I'm a [tunisia](https://www.google.com/search?q=tunisia)n 15 year old that wants to learn lots of stuff.
 What I have learned by now:
- - Making a discord bot that functions (i think), [Vbot](https://discord.com/oauth2/authorize?client_id=771808147530711080&permissions=8&scope=bot+applications.commands)
+
  - HTML & CSS
- - AOI.js, a very cool and easy way to discord bots
- - whatever the heck this is made of
+ - AOI.js, a discord.js framework used in [Vbot](https://github.com/user5522/Vbot)
+ - C# , for more information check out [Square Game](https://github.com/user5522/SquareGame)
+ - whatever the heck this is made of (it turned out to be markdown documentation, damn.) 
  - Making alot of lists :)
  - Designing 2D stuff
+ - [How to breathe](https://www.youtube.com/results?search_query=how+to+breathe)
 
 ## Who am i
 
@@ -49,8 +51,12 @@ bro i just told you
 
 ![Artboard 2](https://user-images.githubusercontent.com/65370936/151705403-59cfdbd5-9967-474a-8bfd-f43cbc738118.png)
 
+![BubblesArtboard 1](https://user-images.githubusercontent.com/65370936/179482468-4bbad470-a7d3-4d59-99b4-dbb8750b026b.png)
+
+
+
 
 _More banners will be uploaded soon or whenever I make new ones._
 
-_If you have any suggestion for me to do then find a way to contact me xd._
+_If you have any suggestion please make an issue [here](https://github.com/user5522/user5522.github.io/issues)_
 
